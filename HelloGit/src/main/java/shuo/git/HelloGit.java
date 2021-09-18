@@ -1,0 +1,11 @@
+package shuo.git;
+
+/**
+ * @author shuo
+ * @date 2021/9/18-16:20
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Git!");
+    }
+}
